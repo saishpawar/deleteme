@@ -1,4 +1,11 @@
 This is first file with changes.
 
 this is branch 1 changes
+<<<<<<< HEAD
 this is branch 2 changes
+=======
+
+
+
+this is demo changes
+>>>>>>> br1
